@@ -112,7 +112,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/clock.jpg)</string>
+    <string notr="true">image: url(clock.jpg)</string>
    </property>
    <property name="text">
     <string/>

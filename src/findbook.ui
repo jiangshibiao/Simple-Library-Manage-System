@@ -86,7 +86,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/expand.jpg)</string>
+    <string notr="true">image: url(expand.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -180,7 +180,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/cat.jpg)</string>
+    <string notr="true">image: url(cat.jpg)</string>
    </property>
    <property name="text">
     <string/>

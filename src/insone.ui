@@ -246,7 +246,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/book2.jpg)</string>
+    <string notr="true">image: url(book2.jpg)</string>
    </property>
    <property name="text">
     <string/>

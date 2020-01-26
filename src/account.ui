@@ -140,7 +140,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/pokemon2.jpg)</string>
+    <string notr="true">image: url(pokemon2.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -231,7 +231,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/pokemon3.jpg)</string>
+    <string notr="true">image: url(pokemon3.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -247,7 +247,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/book2.jpg)</string>
+    <string notr="true">image: url(book2.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -263,7 +263,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/book3.jpg)</string>
+    <string notr="true">image: url(book3.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -279,7 +279,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/find.jpg)</string>
+    <string notr="true">image: url(find.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -295,7 +295,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/insert.jpg)</string>
+    <string notr="true">image: url(insert.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -311,7 +311,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/delete.jpg)</string>
+    <string notr="true">image: url(delete.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -327,7 +327,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/expand.jpg)</string>
+    <string notr="true">image: url(expand.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -343,7 +343,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/record.jpg)</string>
+    <string notr="true">image: url(record.jpg)</string>
    </property>
    <property name="text">
     <string/>
@@ -359,7 +359,7 @@
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">image: url(C:/Users/jiang/Desktop/code/insert2.jpg)</string>
+    <string notr="true">image: url(insert2.jpg)</string>
    </property>
    <property name="text">
     <string/>
