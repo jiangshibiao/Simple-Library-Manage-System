@@ -23,7 +23,7 @@ This is a simple guide.
 		
 		<img src="results/7.png" width="400">
 		
-- When searching books by name, **fuzzy logic** is supported! And user can simply borrow a book by select it and put down the button.
+- **Fuzzy logic** is supported! And user can simply borrow a book by select it and put down the button.
 	
 	<img src="results/8.png" width="700">
 	
