@@ -18,12 +18,15 @@ This is a simple guide.
 + This is the main window for users...
 	
 	<img src="results/6.png" width="400">
+
 	- User or admin can search books in a convenient way.
 		
 		<img src="results/7.png" width="400">
-	- When searching books by name, **fuzzy logic** is supported! And user can simply borrow a book by select it and put down the button.
-
-		<img src="results/8.png" width="700">
-
+		
+- When searching books by name, **fuzzy logic** is supported! And user can simply borrow a book by select it and put down the button.
+	
+	<img src="results/8.png" width="700">
+	
 	- Both user and admin can find this record.
+
 		<img src="results/10.png" width="400">
